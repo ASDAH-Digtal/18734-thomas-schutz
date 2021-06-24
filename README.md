@@ -2,26 +2,28 @@
 # 18734
 ## Create a web page using a template (Level 1 Unit Standard)
 
-Name: 
+Name: Thomas
 
-Date: 
+Date: 25\06\21
 
-Homeroom: 
+Homeroom: 10tt
 
-Teacher: 
+Teacher: Mr. Malaitai
 
 # Instructions:
 
 ## Complete the following:
-1. What is the purpose of the web page?
+1. What is the purpose of the web page? help people understand football
 
 *INSERT ANSWER HERE*
 
-2. Who is the target audience of the web page?
+2. Who is the target audience of the web page? people who don't know about Football
 
 *INSERT ANSWER HERE*
 
-3. What resources (e.g. images, videos etc) will you need to create your web page? 
+3. What resources (e.g. images, videos etc) will you need to create your web page? youtube 
+google fonts 
+unsplash free images
 
 *INSERT ANSWER HERE*
 
