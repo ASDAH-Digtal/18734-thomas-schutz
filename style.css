@@ -18,16 +18,19 @@ Date:
     "header header header"
     "side1 section1 section1"
     "section2 videoSection side2"
+    "references references references"
     "footer footer footer";
 }
 
 .container > div{ /*DO NOT REMOVE*/
-    padding: 10px;
+    padding: 20px;
 }
 
 .header{ /*DO NOT REMOVE*/
     grid-area: header;
-    background-color: var(--main-bg-colour);
+    background-color: #000000;
+    text-align:center;
+    font-family: 'Abril Fatface', cursive;
     color: var(--main-colour);
 }
 
@@ -39,28 +42,56 @@ Date:
 
 .side1{ /*DO NOT REMOVE*/
     grid-area: side1;
-    background-color: var(--main-colour);
+    background-color: #3333FF;
+  
 }
 
 .side2{ /*DO NOT REMOVE*/
     grid-area: side2;
-    background-color: var(--main-colour);
+    background-color: #3333FF;
+    
 }
 
 .section1{ /*DO NOT REMOVE*/
     grid-area: section1;
+    background-color: #3333FF;
+ 
 }
 
 .section2{ /*DO NOT REMOVE*/
     grid-area: section2;
+    background-color: #3333FF;
+    
 }
 
 .videoSection{ /*DO NOT REMOVE*/
     grid-area: videoSection;
+    text-align: center;
+    background-color: #3333FF;
+    
+}
+
+.references {
+  grid-area :references;
+  text-align: center;
+  background-color: #000000;
+
 }
 
 .footer{ /*DO NOT REMOVE*/
     grid-area: footer;
-    background-color: var(--main-bg-colour);
+    background-color:#000000;
     color: var(--main-colour);
+    text-align: center;
+}
+h2,
+h4 {
+ font-family: 'Bebas Neue', cursive; 
+}
+p,
+ol{
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+h4,a,h1,p,li,h2 {
+  color:#FFFFFF;
 }
