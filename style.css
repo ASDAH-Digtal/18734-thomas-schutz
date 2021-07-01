@@ -23,7 +23,7 @@ Date:
 }
 
 .container > div{ /*DO NOT REMOVE*/
-    padding: 10px;
+    padding: 20px;
 }
 
 .header{ /*DO NOT REMOVE*/
@@ -43,27 +43,32 @@ Date:
 .side1{ /*DO NOT REMOVE*/
     grid-area: side1;
     background-color: #3333FF;
+  
 }
 
 .side2{ /*DO NOT REMOVE*/
     grid-area: side2;
     background-color: #3333FF;
+    
 }
 
 .section1{ /*DO NOT REMOVE*/
     grid-area: section1;
     background-color: #3333FF;
+ 
 }
 
 .section2{ /*DO NOT REMOVE*/
     grid-area: section2;
     background-color: #3333FF;
+    
 }
 
 .videoSection{ /*DO NOT REMOVE*/
     grid-area: videoSection;
     text-align: center;
     background-color: #3333FF;
+    
 }
 
 .references {
